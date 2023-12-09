@@ -1,0 +1,388 @@
+# depslib dependency file v1.0
+1641238307 source:c:\users\rusio\onedrive\desktop\test2\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1641237628 c:\users\rusio\onedrive\desktop\test2\main\newclient.h
+	<stdlib.h>
+
+1641240632 source:c:\users\rusio\onedrive\desktop\test2\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+
+1641322475 source:c:\users\rusio\onedrive\desktop\v4.12.22\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1641237628 c:\users\rusio\onedrive\desktop\v4.12.22\main\newclient.h
+	<stdlib.h>
+
+1641498989 source:c:\users\rusio\onedrive\desktop\v4.12.22\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+
+1641502963 source:c:\users\rusio\onedrive\desktop\v4.12.22\main\modifyclient.c
+	"modifyclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641323442 c:\users\rusio\onedrive\desktop\v4.12.22\main\modifyclient.h
+	<stdlib.h>
+
+1641500293 source:c:\users\rusio\onedrive\desktop\colorpanel.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641755932 source:c:\users\rusio\onedrive\desktop\v6.12.22\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"modifyclient.h"
+	"newclient.h"
+
+1641637622 c:\users\rusio\onedrive\desktop\v6.12.22\main\newclient.h
+	<stdlib.h>
+
+1641755715 source:c:\users\rusio\onedrive\desktop\v6.12.22\main\modifyclient.c
+	"modifyclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+	<math.h>
+
+1641323442 c:\users\rusio\onedrive\desktop\v6.12.22\main\modifyclient.h
+	<stdlib.h>
+
+1641740354 source:c:\users\rusio\onedrive\desktop\v6.12.22\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1641755900 source:c:\users\rusio\onedrive\desktop\v6.12.22\main\deleteclient.c
+	"deleteclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641755870 c:\users\rusio\onedrive\desktop\v6.12.22\main\deleteclient.h
+	<stdlib.h>
+
+1641755900 source:c:\users\rusio\onedrive\desktop\v9.09.01.22\main\deleteclient.c
+	"deleteclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641755870 c:\users\rusio\onedrive\desktop\v9.09.01.22\main\deleteclient.h
+	<stdlib.h>
+
+1642004407 source:c:\users\rusio\onedrive\desktop\v9.09.01.22\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"modifyclient.h"
+	"newclient.h"
+	"logintitlu.h"
+
+1641323442 c:\users\rusio\onedrive\desktop\v9.09.01.22\main\modifyclient.h
+	<stdlib.h>
+
+1641637622 c:\users\rusio\onedrive\desktop\v9.09.01.22\main\newclient.h
+	<stdlib.h>
+
+1641740354 source:c:\users\rusio\onedrive\desktop\v9.09.01.22\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1641999767 source:c:\users\rusio\onedrive\desktop\v9.09.01.22\main\modifyclient.c
+	"modifyclient.h"
+	"logintitlu.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+	<math.h>
+
+1642003390 c:\users\rusio\onedrive\desktop\v9.09.01.22\main\logintitlu.h
+
+1642009256 source:c:\users\rusio\onedrive\desktop\v9.09.01.22\main\logintitlu.c
+	"logintitlu.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1641755900 source:c:\users\rusio\onedrive\documents\v10.12.01.22\main\deleteclient.c
+	"deleteclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641755870 c:\users\rusio\onedrive\documents\v10.12.01.22\main\deleteclient.h
+	<stdlib.h>
+
+1642009256 source:c:\users\rusio\onedrive\documents\v10.12.01.22\main\logintitlu.c
+	"logintitlu.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1642003390 c:\users\rusio\onedrive\documents\v10.12.01.22\main\logintitlu.h
+
+1642011808 source:c:\users\rusio\onedrive\documents\v10.12.01.22\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"modifyclient.h"
+	"newclient.h"
+	"logintitlu.h"
+
+1641323442 c:\users\rusio\onedrive\documents\v10.12.01.22\main\modifyclient.h
+	<stdlib.h>
+
+1641637622 c:\users\rusio\onedrive\documents\v10.12.01.22\main\newclient.h
+	<stdlib.h>
+
+1641999767 source:c:\users\rusio\onedrive\documents\v10.12.01.22\main\modifyclient.c
+	"modifyclient.h"
+	"logintitlu.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+	<math.h>
+
+1641740354 source:c:\users\rusio\onedrive\documents\v10.12.01.22\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1642011702 source:c:\users\rusio\onedrive\documents\v10.12.01.22\main\payments.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1641755900 source:c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\deleteclient.c
+	"deleteclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641755870 c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\deleteclient.h
+	<stdlib.h>
+
+1642009256 source:c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\logintitlu.c
+	"logintitlu.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1642003390 c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\logintitlu.h
+
+1642011808 source:c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"modifyclient.h"
+	"newclient.h"
+	"logintitlu.h"
+
+1641323442 c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\modifyclient.h
+	<stdlib.h>
+
+1641637622 c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\newclient.h
+	<stdlib.h>
+
+1641999767 source:c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\modifyclient.c
+	"modifyclient.h"
+	"logintitlu.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+	<math.h>
+
+1641740354 source:c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1642011947 source:c:\users\rusio\onedrive - technical university of cluj-napoca\project cp  bs\v11.12.01.22\main\payments.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1641755900 source:c:\users\rusio\onedrive\desktop\main\deleteclient.c
+	"deleteclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641755870 c:\users\rusio\onedrive\desktop\main\deleteclient.h
+	<stdlib.h>
+
+1642083568 source:c:\users\rusio\onedrive\desktop\main\logintitlu.c
+	"logintitlu.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1642003390 c:\users\rusio\onedrive\desktop\main\logintitlu.h
+
+1642011808 source:c:\users\rusio\onedrive\desktop\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"modifyclient.h"
+	"newclient.h"
+	"logintitlu.h"
+
+1641323442 c:\users\rusio\onedrive\desktop\main\modifyclient.h
+	<stdlib.h>
+
+1641637622 c:\users\rusio\onedrive\desktop\main\newclient.h
+	<stdlib.h>
+
+1642083496 source:c:\users\rusio\onedrive\desktop\main\modifyclient.c
+	"modifyclient.h"
+	"logintitlu.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+	<math.h>
+
+1641740354 source:c:\users\rusio\onedrive\desktop\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1642084013 source:c:\users\rusio\onedrive\desktop\main\payments.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1641755900 source:c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\deleteclient.c
+	"deleteclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1641755870 c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\deleteclient.h
+	<stdlib.h>
+
+1642083568 source:c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\logintitlu.c
+	"logintitlu.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1642003390 c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\logintitlu.h
+
+1642011808 source:c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"modifyclient.h"
+	"newclient.h"
+	"logintitlu.h"
+
+1641323442 c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\modifyclient.h
+	<stdlib.h>
+
+1641637622 c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\newclient.h
+	<stdlib.h>
+
+1642083496 source:c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\modifyclient.c
+	"modifyclient.h"
+	"logintitlu.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"newclient.h"
+	<math.h>
+
+1641740354 source:c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\newclient.c
+	"newclient.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1642084013 source:c:\users\ileac\onedrive - technical university of cluj-napoca\project cp  bs\project_final_version\main\payments.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="main" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/main" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/main" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="deleteclient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deleteclient.h" />
+		<Unit filename="logintitlu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="logintitlu.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modifyclient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modifyclient.h" />
+		<Unit filename="newclient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="newclient.h" />
+		<Unit filename="payments.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="payments.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
