@@ -1,0 +1,26 @@
+5
+1 1232134412443
+
+ M 3234
+23 Borcea Ioan-Cristi
+Jud.MM Mun.Baia Mare Str.Cuza Voda nr.3 et.III ap.73
+-2 123234345434
+
+M  73549
+
+Chis Andrei-Cristian
+unce vrea ehl
+3 2334234234523
+MM 132623
+Rus Alfa omega
+JUD.Cluj strda somes ap 53
+4 2342342342342
+GZ 021536
+Ilea Cosmin-Ionut
+strcuza voda nr 3 efaccosmin
+5 434353453353
+
+Z  34176
+
+Popescu Ioan Mihai
+jud.GORJ mun targujiu.strada care vrea el
